@@ -1,0 +1,8 @@
+pandas
+matplotlib
+geopandas
+fiona==1.9.6
+numpy
+gradio
+contextily==1.6.2
+shapely
