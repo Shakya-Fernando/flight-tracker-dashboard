@@ -47,7 +47,7 @@ python3 app.py
 The app will launch at `http://localhost:7860/` in your browser.
 
 ## Watch Demo Video
-<video controls src="docs/vid/dashboard-drone.mp4" title="Watch Demo"></video>
+[Video demo embedded](docs/vid/dashboard-drone.mp4)
 
 ## Dashboard
 ![P1 Screenshot](docs/images/p1.PNG)
