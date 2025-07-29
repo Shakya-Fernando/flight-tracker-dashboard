@@ -46,16 +46,19 @@ python3 app.py
 
 The app will launch at `http://localhost:7860/` in your browser.
 
+## Watch Demo Video
+<video controls src="docs/vid/dashboard-drone.mp4" title="Watch Demo"></video>
+
 ## Dashboard
 ![P1 Screenshot](docs/images/p1.PNG)
 
-### Flight Paths:
+## Flight Paths:
 ![P2 Screenshot](docs/images/p2.PNG)
 
-### Individual Flights:
+## Individual Flights:
 ![P3 Screenshot](docs/images/p3.PNG)
 
-### Pilot Statistics:
+## Pilot Statistics:
 ![P4 Screenshot](docs/images/p4.PNG)
 
 
